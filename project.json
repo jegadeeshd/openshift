@@ -1,4 +1,4 @@
-﻿{
+{
   "dependencies": {
     "Microsoft.NETCore.App": {
       "version": "1.0.1",
@@ -51,10 +51,10 @@
 
   "publishOptions": {
     "include": [
-      "wwwroot",
-      "**/*.cshtml",
-      "appsettings.json",
-      "web.config"
+      "/src/dotnetcoreapp/wwwroot",
+      "****/*.cshtml",
+      "/src/dotnetcoreapp/appsettings.json",
+      "/src/dotnetcoreapp/web.config"
     ]
   },
 
