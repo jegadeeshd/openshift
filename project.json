@@ -51,10 +51,10 @@
 
   "publishOptions": {
     "include": [
-      "/src/dotnetcoreapp/wwwroot",
-      "****/*.cshtml",
-      "/src/dotnetcoreapp/appsettings.json",
-      "/src/dotnetcoreapp/web.config"
+      "src/dotnetcoreapp/wwwroot",
+      "***/*.cshtml",
+      "src/dotnetcoreapp/appsettings.json",
+      "src/dotnetcoreapp/web.config"
     ]
   },
 
